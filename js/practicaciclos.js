@@ -1,4 +1,3 @@
-debugger
 let continuar = true
 while (continuar) {
     let stringCal = prompt("Ingresa tu calificación")
